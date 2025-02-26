@@ -27,7 +27,6 @@ MarkupSafe==3.0.2
 mdurl==0.1.2
 ml_dtypes==0.5.1
 mysql-connector-python==9.2.0
-mysqlclient==2.2.7
 namex==0.0.8
 numpy==1.26.4
 oauthlib==3.2.2
